@@ -1,50 +1,60 @@
+Hi, I'm Shrinithi
 
+3rd Year Integrated MSc Data Science Student
+Interested in Data, Business Analytics, and building useful things
+India
 
----
+About Me
 
-# 👋 Hi, I'm Shrinithi
+I’m a Data Science student who enjoys working with data and building simple, practical solutions.
 
-🎓 3rd Year Integrated MSc Data Science Student
-🚀 Aspiring Business Analyst | Data Enthusiast | Problem Solver
-🇮🇳 India
+I like understanding how data connects to real-world problems, especially in areas where decisions matter. Most of my work involves cleaning data, exploring patterns, and building basic models to make predictions.
 
----
+I’ve worked on a mix of projects — from machine learning models to small applications — and I’m always trying to improve by learning and building.
 
-## 💡 About Me
+What I Know
+Data cleaning and preprocessing
+Exploratory data analysis
+Basic machine learning (mainly regression and prediction models)
+Data visualization using Power BI and Excel
+Working with datasets and extracting insights
+Technical Skills
 
-I’m a Data Science student passionate about building practical, real-world solutions that create social impact.
-I enjoy working at the intersection of **data, technology, and people-focused systems**.
+Languages
+Python, SQL
 
-I have experience in:
+Tools & Libraries
+Pandas, NumPy, Power BI, Excel
 
-* Data Cleaning & Preprocessing
-* Data Visualization & Insights
-* Machine Learning (Regression, Prediction Models)
-* Android App Development (Java + XML + Firebase)
-* Big Data (Hadoop, Spark, HDFS)
+Machine Learning
+Regression models, basic classification, evaluation metrics
 
-I enjoy participating in hackathons, building prototypes, and turning ideas into structured solutions.
+Other Areas I’ve Worked In
 
-## 🛠️ Technical Skills
+Image segmentation (U-Net, MobileNetV2)
+Big data basics (Hadoop, Spark)
+Flask for simple backend work
+Firebase and Android development
+AWS basics (S3, EC2, RDS)
+Git for version control
+Projects
 
-**Languages:** Python, SQL
-**Data Tools:** Pandas, NumPy, Power BI, Excel
-**ML:** Regression Models, Data Preprocessing
-**Big Data:** Hadoop, Spark
-**Database:** Firebase
-**Other:** Git, Android Studio, Flask
+I’ve worked on projects like:
 
-## 🌍 Career Direction
+Smart Email Summarizer using NLP
+Image segmentation using deep learning
+Data analysis and prediction-based models
 
-With a strong technical foundation in Data Science, I aim to transition into roles that combine
-📊 Data + 📈 Business Strategy + 🤝 Communication
+Still building more and trying to get better with each one.
 
-I am particularly interested in Business Analytics and applied data-driven decision-making.
+Career Direction
 
+I’m interested in roles where I can work with both data and business problems.
 
+Something along the lines of:
+Data + Analysis + Understanding decisions
 
-## 📫 Let's Connect
+Let's Connect
 
-Open to collaborations, internships, and impactful projects.
-Always building. Always learning.
-
+Open to internships, collaborations, and learning opportunities.
+Just trying to learn, build, and improve step by step.
